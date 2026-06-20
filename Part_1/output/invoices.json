@@ -1,0 +1,52 @@
+[
+    {
+        "invoice": "01_stadtwerke_gas_de.pdf",
+        "department": "Facilities",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "02_microsoft_licenses_en.pdf",
+        "department": "IT",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "03_eon_strom_de.png",
+        "department": "Facilities",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "04_aws_cloud_en.docx",
+        "department": "IT",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "05_buerobedarf_de.png",
+        "department": "Operations",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "06_brightpath_consulting_en.docx",
+        "department": "Operations",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "07_hotel_adlon_de.docx",
+        "department": "HR / Travel",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "08_adobe_creativecloud_en.png",
+        "department": "Marketing",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "09_telekom_internet_de.pdf",
+        "department": "IT",
+        "status": "Pending Approval"
+    },
+    {
+        "invoice": "10_dell_hardware_en.png",
+        "department": "IT",
+        "status": "Pending Approval"
+    }
+]

@@ -1,0 +1,1340 @@
+[
+  {
+    "id": "S001",
+    "name": "Anna Müller",
+    "phone": "+49 153 39345092",
+    "email": "anna.müller@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Mittwoch",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Früh",
+      "Spät"
+    ],
+    "wards": [
+      "Innere Medizin"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S002",
+    "name": "Felix Schmidt",
+    "phone": "+49 173 66722344",
+    "email": "felix.schmidt@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "OP-Pflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät"
+    ],
+    "wards": [
+      "Intensivstation",
+      "Innere Medizin",
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S003",
+    "name": "Lena Schneider",
+    "phone": "+49 165 81971316",
+    "email": "lena.schneider@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Spät"
+    ],
+    "wards": [
+      "Neurologie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S004",
+    "name": "Markus Fischer",
+    "phone": "+49 172 40587988",
+    "email": "markus.fischer@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht"
+    ],
+    "wards": [
+      "Innere Medizin"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S005",
+    "name": "Sarah Weber",
+    "phone": "+49 159 96977837",
+    "email": "sarah.weber@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Mittwoch",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Früh",
+      "Nacht"
+    ],
+    "wards": [
+      "Chirurgie",
+      "Neurologie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S006",
+    "name": "Jonas Meyer",
+    "phone": "+49 177 14308421",
+    "email": "jonas.meyer@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer",
+      "Stationshilfe"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Mittwoch",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Früh",
+      "Spät"
+    ],
+    "wards": [
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S007",
+    "name": "Marie Wagner",
+    "phone": "+49 155 43101783",
+    "email": "marie.wagner@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Freitag",
+      "Mittwoch",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Nacht",
+      "Früh"
+    ],
+    "wards": [
+      "Intensivstation"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S008",
+    "name": "Tobias Becker",
+    "phone": "+49 171 31472420",
+    "email": "tobias.becker@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "OP-Pflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S009",
+    "name": "Julia Schulz",
+    "phone": "+49 164 31227574",
+    "email": "julia.schulz@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Früh",
+      "Spät"
+    ],
+    "wards": [
+      "Intensivstation",
+      "Innere Medizin",
+      "OP"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S010",
+    "name": "Lukas Hoffmann",
+    "phone": "+49 175 31682744",
+    "email": "lukas.hoffmann@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Früh"
+    ],
+    "wards": [
+      "Intensivstation"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S011",
+    "name": "Laura Schäfer",
+    "phone": "+49 153 21496211",
+    "email": "laura.schäfer@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "OP-Pflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Mittwoch",
+      "Montag",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Orthopädie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S012",
+    "name": "Simon Koch",
+    "phone": "+49 175 36998038",
+    "email": "simon.koch@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Spät"
+    ],
+    "wards": [
+      "Orthopädie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S013",
+    "name": "Katharina Bauer",
+    "phone": "+49 168 40885476",
+    "email": "katharina.bauer@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Innere Medizin",
+      "Orthopädie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S014",
+    "name": "David Richter",
+    "phone": "+49 157 82374753",
+    "email": "david.richter@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Montag",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Nacht"
+    ],
+    "wards": [
+      "Neurologie",
+      "Notaufnahme"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S015",
+    "name": "Lisa Klein",
+    "phone": "+49 164 72682989",
+    "email": "lisa.klein@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer",
+      "Stationshilfe"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Notaufnahme",
+      "Intensivstation",
+      "OP"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S016",
+    "name": "Stefan Wolf",
+    "phone": "+49 168 70211891",
+    "email": "stefan.wolf@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Mittwoch",
+      "Montag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S017",
+    "name": "Nina Schröder",
+    "phone": "+49 166 74606833",
+    "email": "nina.schröder@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Notaufnahme"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S018",
+    "name": "Michael Neumann",
+    "phone": "+49 155 35487660",
+    "email": "michael.neumann@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Mittwoch",
+      "Montag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Nacht"
+    ],
+    "wards": [
+      "Neurologie",
+      "Orthopädie",
+      "Notaufnahme"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S019",
+    "name": "Petra Schwarz",
+    "phone": "+49 156 17634247",
+    "email": "petra.schwarz@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Mittwoch",
+      "Montag",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Nacht"
+    ],
+    "wards": [
+      "Orthopädie",
+      "OP"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S020",
+    "name": "Thomas Zimmermann",
+    "phone": "+49 153 66267415",
+    "email": "thomas.zimmermann@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Freitag",
+      "Montag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Nacht"
+    ],
+    "wards": [
+      "Orthopädie",
+      "Innere Medizin",
+      "OP"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S021",
+    "name": "Sandra Braun",
+    "phone": "+49 151 71510041",
+    "email": "sandra.braun@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer",
+      "Stationshilfe"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Mittwoch",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Spät"
+    ],
+    "wards": [
+      "Intensivstation",
+      "Innere Medizin"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S022",
+    "name": "Andreas Krüger",
+    "phone": "+49 162 48250360",
+    "email": "andreas.krüger@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer",
+      "Stationshilfe"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Freitag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Spät"
+    ],
+    "wards": [
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S023",
+    "name": "Monika Hofmann",
+    "phone": "+49 174 84252420",
+    "email": "monika.hofmann@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Früh",
+      "Nacht"
+    ],
+    "wards": [
+      "Innere Medizin",
+      "OP"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S024",
+    "name": "Christian Hartmann",
+    "phone": "+49 164 47135391",
+    "email": "christian.hartmann@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Mittwoch",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Nacht",
+      "Früh"
+    ],
+    "wards": [
+      "Neurologie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S025",
+    "name": "Eva Lange",
+    "phone": "+49 179 30005727",
+    "email": "eva.lange@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Mittwoch",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Spät",
+      "Früh"
+    ],
+    "wards": [
+      "Innere Medizin"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S026",
+    "name": "Sebastian Schmitt",
+    "phone": "+49 158 99514287",
+    "email": "sebastian.schmitt@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Mittwoch",
+      "Montag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Spät"
+    ],
+    "wards": [
+      "Neurologie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S027",
+    "name": "Claudia Werner",
+    "phone": "+49 159 31367172",
+    "email": "claudia.werner@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Nacht"
+    ],
+    "wards": [
+      "Intensivstation",
+      "Notaufnahme",
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S028",
+    "name": "Florian Schmitz",
+    "phone": "+49 158 13176186",
+    "email": "florian.schmitz@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät"
+    ],
+    "wards": [
+      "Intensivstation",
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S029",
+    "name": "Angela Krause",
+    "phone": "+49 156 87925434",
+    "email": "angela.krause@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Nacht",
+      "Früh"
+    ],
+    "wards": [
+      "Intensivstation"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S030",
+    "name": "Patrick Meier",
+    "phone": "+49 164 10226999",
+    "email": "patrick.meier@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Früh"
+    ],
+    "wards": [
+      "Innere Medizin",
+      "Neurologie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S031",
+    "name": "Sabrina Lehmann",
+    "phone": "+49 161 64009265",
+    "email": "sabrina.lehmann@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "OP-Pflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Mittwoch",
+      "Montag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Früh",
+      "Nacht"
+    ],
+    "wards": [
+      "Intensivstation",
+      "Neurologie",
+      "Notaufnahme"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S032",
+    "name": "Daniel Schmid",
+    "phone": "+49 160 38210242",
+    "email": "daniel.schmid@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Spät",
+      "Früh"
+    ],
+    "wards": [
+      "OP",
+      "Innere Medizin",
+      "Intensivstation"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S033",
+    "name": "Melanie Schulze",
+    "phone": "+49 172 94951883",
+    "email": "melanie.schulze@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer",
+      "Stationshilfe"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Mittwoch",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Früh"
+    ],
+    "wards": [
+      "Innere Medizin",
+      "Intensivstation",
+      "Orthopädie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S034",
+    "name": "Dominik Maier",
+    "phone": "+49 166 92043803",
+    "email": "dominik.maier@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Freitag",
+      "Mittwoch",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S035",
+    "name": "Franziska Köhler",
+    "phone": "+49 175 67062156",
+    "email": "franziska.köhler@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Nacht"
+    ],
+    "wards": [
+      "Neurologie",
+      "Innere Medizin",
+      "OP"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S036",
+    "name": "Jan Herrmann",
+    "phone": "+49 179 77750178",
+    "email": "jan.herrmann@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Freitag",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Spät"
+    ],
+    "wards": [
+      "Orthopädie",
+      "Neurologie"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S037",
+    "name": "Nadine König",
+    "phone": "+49 166 94120751",
+    "email": "nadine.könig@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "OP-Pflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Mittwoch",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht"
+    ],
+    "wards": [
+      "OP",
+      "Orthopädie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S038",
+    "name": "Maximilian Walter",
+    "phone": "+49 163 30509175",
+    "email": "maximilian.walter@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Samstag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Chirurgie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S039",
+    "name": "Tanja Mayer",
+    "phone": "+49 162 50079111",
+    "email": "tanja.mayer@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Früh"
+    ],
+    "wards": [
+      "Notaufnahme",
+      "OP",
+      "Innere Medizin"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S040",
+    "name": "Oliver Huber",
+    "phone": "+49 176 64266464",
+    "email": "oliver.huber@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Mittwoch",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Spät"
+    ],
+    "wards": [
+      "Neurologie",
+      "OP"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S041",
+    "name": "Anja Kaiser",
+    "phone": "+49 156 16749089",
+    "email": "anja.kaiser@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Montag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Früh",
+      "Spät"
+    ],
+    "wards": [
+      "Notaufnahme",
+      "Chirurgie",
+      "OP"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S042",
+    "name": "Philipp Fuchs",
+    "phone": "+49 168 16990811",
+    "email": "philipp.fuchs@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": false,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät"
+    ],
+    "wards": [
+      "Neurologie"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S043",
+    "name": "Stefanie Peters",
+    "phone": "+49 166 99853245",
+    "email": "stefanie.peters@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Montag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Früh"
+    ],
+    "wards": [
+      "Chirurgie",
+      "OP",
+      "Neurologie"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S044",
+    "name": "Christoph Lang",
+    "phone": "+49 151 51870192",
+    "email": "christoph.lang@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer",
+      "Stationshilfe"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Freitag",
+      "Mittwoch",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät"
+    ],
+    "wards": [
+      "Orthopädie"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S045",
+    "name": "Birgit Scholz",
+    "phone": "+49 172 59737181",
+    "email": "birgit.scholz@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Freitag",
+      "Montag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Früh",
+      "Nacht"
+    ],
+    "wards": [
+      "Orthopädie",
+      "Notaufnahme"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S046",
+    "name": "Alexander Möller",
+    "phone": "+49 173 30534124",
+    "email": "alexander.möller@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "OP-Pflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät"
+    ],
+    "wards": [
+      "Neurologie",
+      "Notaufnahme"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S047",
+    "name": "Kerstin Weiß",
+    "phone": "+49 153 47437115",
+    "email": "kerstin.weiß@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Freitag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Nacht",
+      "Spät",
+      "Früh"
+    ],
+    "wards": [
+      "OP"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  },
+  {
+    "id": "S048",
+    "name": "Benjamin Jung",
+    "phone": "+49 179 90014570",
+    "email": "benjamin.jung@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Mittwoch",
+      "Montag",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät"
+    ],
+    "wards": [
+      "Intensivstation",
+      "OP"
+    ],
+    "max_hours_per_week": 20,
+    "active": true
+  },
+  {
+    "id": "S049",
+    "name": "Renate Hahn",
+    "phone": "+49 153 49491631",
+    "email": "renate.hahn@uks-minijob.de",
+    "qualifications": [
+      "Pflegehelfer"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Dienstag",
+      "Donnerstag",
+      "Freitag",
+      "Montag"
+    ],
+    "available_shifts": [
+      "Früh",
+      "Spät",
+      "Nacht"
+    ],
+    "wards": [
+      "OP",
+      "Innere Medizin"
+    ],
+    "max_hours_per_week": 10,
+    "active": true
+  },
+  {
+    "id": "S050",
+    "name": "Tim Schubert",
+    "phone": "+49 159 51154241",
+    "email": "tim.schubert@uks-minijob.de",
+    "qualifications": [
+      "Pflegefachkraft",
+      "Intensivpflege"
+    ],
+    "driving_license": true,
+    "available_days": [
+      "Donnerstag",
+      "Freitag",
+      "Mittwoch",
+      "Samstag",
+      "Sonntag"
+    ],
+    "available_shifts": [
+      "Spät",
+      "Nacht",
+      "Früh"
+    ],
+    "wards": [
+      "Neurologie",
+      "Notaufnahme"
+    ],
+    "max_hours_per_week": 15,
+    "active": true
+  }
+]

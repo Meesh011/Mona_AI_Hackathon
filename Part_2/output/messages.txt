@@ -1,0 +1,506 @@
+
+[14:13:07] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:13:07] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:13:07] SMS → Zara Dlamini +49 164 243 7912
+Hallo Zara, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:13:07] EMAIL → zara.dlamini@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Zara Dlamini,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:13:07] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Donnerstag
+Kontaktiert : 2 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Zara Dlamini
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+  - Zara Dlamini (+49 164 243 7912)
+
+------------------------------------------------------------
+[14:24:26] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:24:26] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:24:26] SMS → Zara Dlamini +49 164 243 7912
+Hallo Zara, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:24:26] EMAIL → zara.dlamini@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Zara Dlamini,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:24:26] SMS → Mateo Bianchi +49 172 379 7807
+Hallo Mateo, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:24:26] EMAIL → mateo.bianchi@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Mateo Bianchi,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:24:26] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Donnerstag
+Kontaktiert : 3 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Mateo Bianchi
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+  - Zara Dlamini (+49 164 243 7912)
+  - Mateo Bianchi (+49 172 379 7807)
+
+------------------------------------------------------------
+[14:44:48] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:44:48] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:44:48] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Donnerstag
+Kontaktiert : 1 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Otto Okafor
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+
+------------------------------------------------------------
+[14:46:26] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:46:26] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:46:26] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Donnerstag
+Kontaktiert : 1 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Otto Okafor
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+
+------------------------------------------------------------
+[14:52:38] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:52:38] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:52:38] SMS → Zara Dlamini +49 164 243 7912
+Hallo Zara, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:52:38] EMAIL → zara.dlamini@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Zara Dlamini,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:52:38] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Donnerstag
+Kontaktiert : 2 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Zara Dlamini
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+  - Zara Dlamini (+49 164 243 7912)
+
+------------------------------------------------------------
+[14:55:40] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:55:40] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:55:40] SMS → Zara Dlamini +49 164 243 7912
+Hallo Zara, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:55:40] EMAIL → zara.dlamini@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Zara Dlamini,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:55:40] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Donnerstag
+Kontaktiert : 2 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Zara Dlamini
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+  - Zara Dlamini (+49 164 243 7912)
+
+------------------------------------------------------------
+[14:58:18] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:58:18] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:58:18] SMS → Zara Dlamini +49 164 243 7912
+Hallo Zara, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: Donnerstag, 26.06.2026
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[14:58:18] EMAIL → zara.dlamini@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am Donnerstag, 26.06.2026
+
+Sehr geehrte/r Zara Dlamini,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : Donnerstag, 26.06.2026
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[14:58:18] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Donnerstag
+Kontaktiert : 2 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Zara Dlamini
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+  - Zara Dlamini (+49 164 243 7912)
+
+------------------------------------------------------------
+[15:01:06] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: None
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[15:01:06] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am None
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : None
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[15:01:06] SMS → Zara Dlamini +49 164 243 7912
+Hallo Zara, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: None
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[15:01:06] EMAIL → zara.dlamini@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am None
+
+Sehr geehrte/r Zara Dlamini,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : None
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[15:01:06] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Donnerstag
+Kontaktiert : 2 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Zara Dlamini
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+  - Zara Dlamini (+49 164 243 7912)
+
+------------------------------------------------------------
+[15:02:07] SMS → Otto Okafor +49 154 540 3088
+Hallo Otto, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht:  | Station:  | Datum: 
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[15:02:07] EMAIL → otto.okafor@uks.eu
+Subject: [UKS] Kurzfristig: schicht  am 
+
+Sehr geehrte/r Otto Okafor,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : 
+  Schicht : 
+  Datum   : 
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[15:02:07] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : schicht |  | 
+Kontaktiert : 1 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Otto Okafor
+Kontaktierte Personen:
+  - Otto Okafor (+49 154 540 3088)
+
+------------------------------------------------------------
+[15:02:41] SMS → Mateo Bianchi +49 172 379 7807
+Hallo Mateo, hier ist das UKS Homburg.
+Können Sie kurzfristig einspringen?
+Schicht: Nacht | Station: Intensivstation | Datum: None
+Bitte antworten Sie mit JA oder NEIN innerhalb von 30 Min.
+Vielen Dank! — UKS Personalplanung
+------------------------------------------------------------
+[15:02:41] EMAIL → mateo.bianchi@uks.eu
+Subject: [UKS] Kurzfristig: Nachtschicht Intensivstation am None
+
+Sehr geehrte/r Mateo Bianchi,
+
+wir benötigen dringend Unterstützung für folgende Schicht:
+
+  Station : Intensivstation
+  Schicht : Nacht
+  Datum   : None
+
+Bitte melden Sie sich so schnell wie möglich telefonisch unter
++49 6841 16-0 oder antworten Sie auf diese E-Mail.
+
+Mit freundlichen Grüßen
+Personalplanung — Universitätsklinikum des Saarlandes
+------------------------------------------------------------
+[15:02:41] HR-NOTIFY → hr.personalplanung@uks.eu
+[UKS Schicht-Agent — Bericht]
+Anfrage : Nachtschicht | Intensivstation | Freitag
+Kontaktiert : 1 Mitarbeiter
+Ergebnis : ✅ Schicht besetzt durch Mateo Bianchi
+Kontaktierte Personen:
+  - Mateo Bianchi (+49 172 379 7807)
+
+------------------------------------------------------------
